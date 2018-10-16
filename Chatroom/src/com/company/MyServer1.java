@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 /**
  * Created by root on 4/13/17.
- * @author Jesus Garcia
+ * 
  * source I used www.youtube.com/watch?v=RQ2vOCSV4tY
  * Java Ep32- Networking Pt 1,2,3, Gliderman's Channel
  */
